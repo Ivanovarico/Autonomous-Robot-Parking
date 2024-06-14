@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "TRIG",
+					"strict" : false
+				},
+				{
+					"name" : "PWM1",
+					"strict" : false
+				},
+				{
+					"name" : "PWM2",
+					"strict" : false
+				},
+				{
+					"name" : "led",
+					"strict" : false
+				},
+				{
+					"name" : "led4",
+					"strict" : false
+				},
+				{
+					"name" : "led5",
+					"strict" : false
+				},
+				{
+					"name" : "led6",
+					"strict" : false
+				},
+				{
+					"name" : "pwm_s",
+					"strict" : false
+				},
+				{
+					"name" : "pwm_s_ultra",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentos3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "RST",
+					"strict" : false
+				},
+				{
+					"name" : "clockk",
+					"strict" : false
+				},
+				{
+					"name" : "ECHO",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

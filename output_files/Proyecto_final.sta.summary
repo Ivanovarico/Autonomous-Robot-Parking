@@ -1,0 +1,161 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -7.544
+TNS   : -407.079
+
+Type  : Slow 1200mV 85C Model Setup 'clockk'
+Slack : -4.680
+TNS   : -443.011
+
+Type  : Slow 1200mV 85C Model Setup 'clock:U6|aux'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clockk'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock:U6|aux'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CLK'
+Slack : -1.227
+TNS   : -29.667
+
+Type  : Slow 1200mV 85C Model Recovery 'clockk'
+Slack : -1.005
+TNS   : -1.548
+
+Type  : Slow 1200mV 85C Model Removal 'CLK'
+Slack : 0.913
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clockk'
+Slack : 0.927
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clockk'
+Slack : -3.000
+TNS   : -244.316
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -212.047
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock:U6|aux'
+Slack : -1.403
+TNS   : -2.806
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -6.862
+TNS   : -357.860
+
+Type  : Slow 1200mV 0C Model Setup 'clockk'
+Slack : -4.206
+TNS   : -389.341
+
+Type  : Slow 1200mV 0C Model Setup 'clock:U6|aux'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clockk'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock:U6|aux'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CLK'
+Slack : -1.020
+TNS   : -23.691
+
+Type  : Slow 1200mV 0C Model Recovery 'clockk'
+Slack : -0.865
+TNS   : -1.275
+
+Type  : Slow 1200mV 0C Model Removal 'CLK'
+Slack : 0.810
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clockk'
+Slack : 0.856
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clockk'
+Slack : -3.000
+TNS   : -244.316
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -212.047
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock:U6|aux'
+Slack : -1.403
+TNS   : -2.806
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -2.742
+TNS   : -86.442
+
+Type  : Fast 1200mV 0C Model Setup 'clockk'
+Slack : -1.546
+TNS   : -87.311
+
+Type  : Fast 1200mV 0C Model Setup 'clock:U6|aux'
+Slack : 0.639
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clockk'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock:U6|aux'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CLK'
+Slack : -0.024
+TNS   : -0.216
+
+Type  : Fast 1200mV 0C Model Recovery 'clockk'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clockk'
+Slack : 0.364
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLK'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clockk'
+Slack : -3.000
+TNS   : -180.840
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -158.193
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock:U6|aux'
+Slack : -1.000
+TNS   : -2.000
+
+------------------------------------------------------------

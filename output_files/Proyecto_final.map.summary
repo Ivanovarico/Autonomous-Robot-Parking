@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri May 31 04:16:30 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : Proyecto_final
+Top-level Entity Name : ProyectoF
+Family : MAX 10
+Total logic elements : 977
+    Total combinational functions : 970
+    Dedicated logic registers : 323
+Total registers : 323
+Total pins : 41
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 2
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
